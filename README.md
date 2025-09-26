@@ -8,7 +8,7 @@
 
 <!-- Hero Banner -->
 <p align="center">
-  <img src="./assets/tabahi.png" alt="Ghulam Mustafa Banner" />
+  <img src="./assets/tabahi.png" alt="Ghulam Mustafa Banner" height="400px" />
 </p>
 
 <!-- Typing Animation (Top) -->
